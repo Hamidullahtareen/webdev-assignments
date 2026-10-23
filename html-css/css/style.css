@@ -1,0 +1,121 @@
+body{
+    margin: 0;
+    font-family: Helvetica, arial, Sans-serif;
+    background-color: #F8F5EC;
+}
+.logo{
+    max-width: 100%;
+    color:#173F35 ;
+    margin-left: 5rem;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    color: white;
+    padding: 5px 10px;
+
+}
+
+.nav-links{
+    list-style: none;
+    display: flex;
+    gap: 100px;
+    margin-right: 80px;
+    padding: 0;
+}
+
+.nav-links a {
+    color: #242824;
+    text-decoration: none;
+    
+}
+
+.nav-links a:hover{
+    color: #D8E5D0;
+    background-color: #242824;
+    padding: 5px 5px;
+    border-radius: 2px;
+}
+
+.first-part{
+    display: block;
+    justify-items: center;
+    align-items: center;
+    margin-top: 150px;
+
+}
+.first-part .heading{
+    color: green;
+    font-size: 3rem;
+}
+.first-part .main-image{
+    width: 1500px;
+    height: 800px;
+    margin-left: 200px;
+    border: #242824;
+    border-radius: 10px;
+    
+}
+.first-part p{
+    margin-left: 200px ;
+    margin-right: 200px;
+    font-size: 2rem;
+    color: #173F35;
+}
+.card-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 100px;
+
+}
+
+.card{
+    width: 325px;
+    background-color: #173F35;
+    border-radius: 8px;
+    overflow: hidden;
+    margin: 20px;
+}
+.card-content h3{
+    padding: 15px;
+    color: #F8F5EC;
+}
+
+.card-content h6{
+    margin-top: 0;
+    margin-left: 15px;
+    padding:0;
+    color: #F8F5EC;
+}
+.card-content p{
+    text-align: justify;
+    margin-right: 15px;
+    margin-top: 0;
+    margin-left: 15px;
+    color: #F8F5EC;
+}
+.image-product{
+    width: 100%;
+    /* margin-left: 15px;
+    margin-right: 15px; */
+
+}
+.image-product img {
+    width: 100%;
+}
+
+.content h1 {
+    color: green;
+}
+
+.footer-content{
+    display: flex;
+    justify-content: space-around;
+}
+.footer-content.class-map {
+    margin-top:  29px;
+}
