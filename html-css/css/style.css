@@ -146,3 +146,21 @@ body::before {
     display: flex;
     justify-content: space-around;
 }
+
+.result-link{
+
+    margin-left: 280px;
+}
+
+.result-link a{
+        background-color: #242824;
+        color: white;
+        padding: 20px;
+        border-radius: 10px;
+        text-decoration: none;
+}
+
+.result-link a:hover{
+    background-color: green;
+    color: white;
+}
