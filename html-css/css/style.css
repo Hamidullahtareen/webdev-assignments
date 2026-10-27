@@ -29,7 +29,6 @@ body::before {
     background-color: white;
     color: white;
     padding: 5px 10px;
-
 }
 
 .nav-links{
@@ -38,6 +37,7 @@ body::before {
     gap: 100px;
     margin-right: 80px;
     padding: 0;
+
 }
 
 .nav-links a {
