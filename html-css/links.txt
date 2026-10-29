@@ -1,0 +1,10 @@
+Link for the website:
+https://hamidullahtareen.github.io/webdev-assignments/
+
+
+Link for the result page:
+https://hamidullahtareen.github.io/webdev-assignments/html-css/result.html
+
+
+Link for the assignment folder:
+https://github.com/Hamidullahtareen/webdev-assignments/tree/main/html-css

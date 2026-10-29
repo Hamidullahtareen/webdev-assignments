@@ -3,7 +3,7 @@ const place = ["Gryffindor", "Slytherin", "Hufflepuff"," Ravenclaw"]
 
 const selection = Math.floor(Math.random() * place.length)
 if (selection == 0){
-    document.getElementById("result").textContent = studne_name, +", you are " + place[0] + ".";
+    document.getElementById("result").textContent = studne_name +", you are " + place[0] + ".";
 }else if  (selection == 1){
     document.getElementById("result").textContent = studne_name +", you are " + place[1] + ".";
 }else if (selection == 2){
