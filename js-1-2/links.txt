@@ -1,0 +1,7 @@
+
+webdisk metropolia link:
+https://webdisk.metropolia.fi/htcomnet/Default.aspx
+
+
+Github link:
+https://github.com/Hamidullahtareen/webdev-assignments/tree/main/js-1-2
